@@ -8,8 +8,8 @@ My name is Alex, I am a *Software Engineer* with expertise in leading developmen
 - **Backend:** Node.js, NestJS, Loopback
 - **Frontend:** ReactJS, React Native, Angular
 - **Testing:** Jest, Mocha, TDD
-- **Databases:** MongoDB, Firebase
-- **DevOps:** Docker, Jenkins, CI/CD (GitHub/GitLab Pipelines)
+- **Databases:** MongoDB, MySQL, Postgres, Firebase
+- **DevOps:** Kubernetes, Docker, Terraform, Jenkins, CI/CD (GitHub Actions/GitLab Pipelines)
 - **Other:** Linux Servers, HTML/CSS/SCSS, Bootstrap, Git
 
 ## **I like**
