@@ -1,23 +1,13 @@
-### Hi
+### Hi, I'm Alexander 👋
 
-My name is Alex, I am a *Software Engineer* with expertise in leading development teams and mentoring.
+I'm a software engineer. I like taking an idea from start to finish: turning it into code that works and learning along the way. These days I spend a lot of time working with AI coding agents.
 
-## **Skills**
+On [alexkander.dev](https://alexkander.dev) I publish apps, demos, proofs of concept, and experiments about software, AI, home labs, and self-hosting.
 
-- **Languages:** TypeScript, JavaScript, SQL
-- **Backend:** Node.js, NestJS, Loopback
-- **Frontend:** ReactJS, React Native, Angular
-- **Testing:** Jest, Mocha, TDD
-- **Databases:** MongoDB, MySQL, Postgres, Firebase
-- **DevOps:** Kubernetes, Docker, Terraform, Jenkins, CI/CD (GitHub Actions/GitLab Pipelines)
-- **Other:** Linux Servers, HTML/CSS/SCSS, Bootstrap, Git
+- 📝 [Posts](https://alexkander.dev/posts/)
+- 🧰 [What I use](https://alexkander.dev/uses/)
+- 🙋 [About me](https://alexkander.dev/about/)
 
-## **I like**
+When I'm not coding, I'm usually in the middle of some DIY project: hardware, CAD parts to 3D print, or things made of wood.
 
-- Hardware development and DIY projects.
-- CAD modeling and 3D printing.
-- Woodworking, music learning, and astrophotography.
-
-## **How to contact me**
-📧 [arondn2@gmail.com](mailto:arondn2@gmail.com)  
-🌐 [LinkedIn: arondn2](https://www.linkedin.com/in/arondn2/)
+📧 [me@alexkander.dev](mailto:me@alexkander.dev) · [LinkedIn](https://www.linkedin.com/in/arondn2/)
